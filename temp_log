@@ -1,0 +1,4799 @@
+{
+"timestamp" : "19-09-21 23:14:42"
+"CPU Temp" : "77.9ºC"
+"GPU Temp" : "77.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 20:12:28"
+"CPU Temp" : "56.9ºC"
+"GPU Temp" : "56.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 20:40:48"
+"CPU Temp" : "43.8ºC"
+"GPU Temp" : "43.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-28 20:41:37"
+"CPU Temp" : "48.1ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-28 20:53:14"
+"CPU Temp" : "62.8ºC"
+"GPU Temp" : "62.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 20:58:10"
+"CPU Temp" : "48.1ºC"
+"GPU Temp" : "47.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-28 21:02:01"
+"CPU Temp" : "59.4ºC"
+"GPU Temp" : "59.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:03:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:04:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-28 21:05:02"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:06:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-28 21:07:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:08:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:09:01"
+"CPU Temp" : "47.7ºC"
+"GPU Temp" : "47.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-28 21:10:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:11:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-28 21:12:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:13:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-28 21:14:01"
+"CPU Temp" : "57.4ºC"
+"GPU Temp" : "57.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:15:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:16:01"
+"CPU Temp" : "48.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-28 21:17:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:18:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-28 21:19:01"
+"CPU Temp" : "57.4ºC"
+"GPU Temp" : "57.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:20:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:21:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-28 21:22:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:23:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-28 21:24:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:25:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:26:01"
+"CPU Temp" : "48.6ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-28 21:27:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:28:02"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-28 21:29:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:30:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-28 21:31:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:32:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-28 21:33:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:34:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:35:01"
+"CPU Temp" : "48.6ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-28 21:36:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:37:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-28 21:38:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:39:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-28 21:40:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:41:12"
+"CPU Temp" : "58.4ºC"
+"GPU Temp" : "59.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:42:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "56.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:43:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:44:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-28 21:45:01"
+"CPU Temp" : "55.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:46:02"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:47:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-28 21:48:01"
+"CPU Temp" : "55.5ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:49:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:50:10"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:51:02"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-28 21:52:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:53:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:54:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-28 21:55:01"
+"CPU Temp" : "55.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:56:02"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:57:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-28 21:58:01"
+"CPU Temp" : "55.5ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 21:59:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 22:00:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-28 22:01:01"
+"CPU Temp" : "57.4ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 22:02:02"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 22:03:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 22:04:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 22:05:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-28 22:06:01"
+"CPU Temp" : "55.9ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 22:07:11"
+"CPU Temp" : "55.9ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 22:08:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-28 22:09:02"
+"CPU Temp" : "55.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 22:10:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 22:11:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 22:12:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-28 22:13:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 22:14:02"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 22:15:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-28 22:16:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 22:17:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-28 22:18:01"
+"CPU Temp" : "47.7ºC"
+"GPU Temp" : "47.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 11:34:45"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 11:35:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 11:36:02"
+"CPU Temp" : "47.7ºC"
+"GPU Temp" : "47.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 11:37:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 11:38:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 11:39:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 11:40:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 11:41:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 11:42:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 11:43:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 11:44:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 11:45:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 11:46:01"
+"CPU Temp" : "47.7ºC"
+"GPU Temp" : "47.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 13:56:19"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 13:57:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 13:58:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 13:59:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:00:01"
+"CPU Temp" : "48.6ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 14:01:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:02:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 14:03:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:04:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:05:01"
+"CPU Temp" : "48.1ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 14:06:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:07:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 14:08:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:09:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 14:10:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:11:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 14:12:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:13:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 14:14:01"
+"CPU Temp" : "55.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:15:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:16:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 14:17:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:18:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 14:19:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:20:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:21:01"
+"CPU Temp" : "48.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 14:22:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:23:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 14:24:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:25:02"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:26:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 14:27:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:28:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:29:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 14:30:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:31:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 14:32:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:33:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:34:01"
+"CPU Temp" : "48.1ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 14:35:02"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:36:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:37:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 14:38:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:39:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 14:40:01"
+"CPU Temp" : "55.5ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:41:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:42:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 14:43:01"
+"CPU Temp" : "55.5ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:44:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:45:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 14:46:02"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:47:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:48:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 14:49:01"
+"CPU Temp" : "55.5ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:50:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:51:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 14:52:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:53:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:54:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 14:55:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:56:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:57:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 14:58:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 14:59:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:00:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 15:01:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:02:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:03:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 15:04:01"
+"CPU Temp" : "55.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:05:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:06:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 15:07:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:08:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:09:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 15:10:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:11:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:12:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 15:13:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:14:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:15:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 15:16:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:17:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:18:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 15:19:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:20:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:21:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 15:22:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:23:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:24:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 15:25:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:26:02"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:27:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 15:28:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:29:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:30:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 15:31:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:32:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:33:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 15:34:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:35:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:36:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 15:37:01"
+"CPU Temp" : "55.5ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:38:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:39:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 15:40:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:41:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:42:02"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 15:43:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:44:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:45:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 15:46:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:47:02"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:48:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 15:49:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:50:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:51:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 15:52:02"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:53:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:54:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 15:55:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:56:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:57:02"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 15:58:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 15:59:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:00:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 16:01:01"
+"CPU Temp" : "55.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:02:02"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:03:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 16:04:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:05:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:06:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 16:07:01"
+"CPU Temp" : "55.5ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:08:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:09:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:10:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 16:11:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:12:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:13:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 16:14:01"
+"CPU Temp" : "55.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:15:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:16:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 16:17:01"
+"CPU Temp" : "55.9ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:18:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:19:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 16:20:01"
+"CPU Temp" : "55.5ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:21:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:22:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 16:23:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:24:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:25:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 16:26:01"
+"CPU Temp" : "55.5ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:27:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:28:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 16:29:01"
+"CPU Temp" : "55.5ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:30:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:31:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:32:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 16:33:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:34:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:35:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 16:36:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:37:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:38:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:39:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 16:40:01"
+"CPU Temp" : "55.5ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:41:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:42:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 16:43:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:44:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:45:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:46:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 16:47:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:48:02"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:49:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 16:50:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:51:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:52:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 16:53:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:54:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:55:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:56:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 16:57:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:58:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 16:59:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 17:00:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:01:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:02:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 17:03:02"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:04:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:05:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 17:06:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:07:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:08:02"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 17:09:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:10:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:11:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 17:12:01"
+"CPU Temp" : "55.9ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:13:02"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:14:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 17:15:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:16:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:17:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 17:18:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:19:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:20:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:21:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 17:22:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:23:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:24:02"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 17:25:01"
+"CPU Temp" : "55.5ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:26:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:27:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 17:28:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:29:02"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:30:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:31:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 17:32:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:33:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:34:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 17:35:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:36:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:37:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 17:38:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:39:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:40:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 17:41:01"
+"CPU Temp" : "55.5ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:42:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:43:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 17:44:01"
+"CPU Temp" : "55.5ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:45:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:46:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 17:47:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:48:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:49:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 17:50:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:51:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:52:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 17:53:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:54:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:55:01"
+"CPU Temp" : "48.6ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 17:56:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:57:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 17:58:01"
+"CPU Temp" : "47.7ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 17:59:02"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:00:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 18:01:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:02:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:03:01"
+"CPU Temp" : "48.6ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 18:04:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:05:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 18:06:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:07:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 18:08:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:09:02"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 18:10:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:11:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 18:12:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:13:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 18:14:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:15:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 18:16:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:17:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 18:18:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:19:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 18:20:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:21:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 18:22:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:23:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 18:24:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:25:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 18:26:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:27:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 18:28:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:29:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 18:30:02"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:31:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 18:32:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:33:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 18:34:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:35:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 18:36:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:37:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 18:38:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:39:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 18:40:02"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:41:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 18:42:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:43:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 18:44:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:45:02"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 18:46:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:47:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 18:48:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:49:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 18:50:02"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:51:01"
+"CPU Temp" : "48.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 18:52:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:53:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 18:54:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:55:02"
+"CPU Temp" : "48.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 18:56:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:57:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 18:58:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 18:59:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:00:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:01:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:02:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:03:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:04:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:05:02"
+"CPU Temp" : "48.6ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:06:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:07:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:08:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:09:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:10:02"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:11:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:12:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:13:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:14:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:15:02"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:16:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:17:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:18:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:19:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:20:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:21:01"
+"CPU Temp" : "48.6ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:22:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:23:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:24:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:25:01"
+"CPU Temp" : "48.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:26:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:27:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:28:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:29:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:30:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:31:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:32:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:33:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:34:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:35:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:36:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:37:01"
+"CPU Temp" : "48.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:38:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:39:01"
+"CPU Temp" : "48.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:40:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:41:02"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:42:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:43:01"
+"CPU Temp" : "48.6ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:44:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:45:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:46:02"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:47:01"
+"CPU Temp" : "48.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:48:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:49:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:50:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:51:02"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:52:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:53:01"
+"CPU Temp" : "48.6ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:54:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:55:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:56:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:57:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 19:58:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 19:59:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 20:00:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:01:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 20:02:12"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:03:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 20:04:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:05:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 20:06:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:07:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:08:10"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 20:09:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:10:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 20:11:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:12:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 20:13:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:14:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 20:15:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:16:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:17:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 20:18:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:19:02"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 20:20:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:21:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 20:22:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:23:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 20:24:01"
+"CPU Temp" : "55.5ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:25:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:26:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 20:27:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:28:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:29:01"
+"CPU Temp" : "48.6ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 20:30:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:31:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 20:32:01"
+"CPU Temp" : "55.5ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:33:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:34:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 20:35:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:36:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:37:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 20:38:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:39:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:40:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 20:41:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:42:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:43:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 20:44:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:45:02"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:46:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 20:47:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:48:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:49:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 20:50:02"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:51:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:52:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 20:53:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:54:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:55:02"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 20:56:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:57:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 20:58:01"
+"CPU Temp" : "55.5ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 20:59:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 21:00:02"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 21:01:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 21:02:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 21:03:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 21:04:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 21:05:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 21:06:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 21:07:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 21:08:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 21:09:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 21:10:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 21:11:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 21:12:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 21:13:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 21:14:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 21:15:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 21:16:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 21:17:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 21:18:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 21:19:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 21:20:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 21:21:02"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 21:22:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 21:23:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 21:24:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 21:25:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 21:26:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 21:27:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 21:28:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 21:29:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 21:30:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 21:31:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-29 21:32:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-29 21:34:01"
+"CPU Temp" : "48.1ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-30 19:49:52"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-30 19:50:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-30 19:51:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-30 19:52:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-30 19:53:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-30 19:54:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-30 19:55:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-30 19:56:01"
+"CPU Temp" : "48.1ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-30 19:57:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-30 19:58:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-30 19:59:02"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-30 20:00:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-30 20:01:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-30 20:02:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-30 20:03:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-30 20:04:02"
+"CPU Temp" : "48.6ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-30 20:05:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-30 20:06:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-30 20:07:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-30 20:08:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-30 20:09:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-30 20:10:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-30 20:11:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-30 20:12:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-30 20:13:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-30 20:14:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-30 20:15:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-30 20:16:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-30 20:17:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-30 20:18:02"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-30 20:19:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-30 20:20:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-30 20:21:01"
+"CPU Temp" : "48.6ºC"
+"GPU Temp" : "47.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-30 20:22:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-30 20:23:02"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-30 20:24:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-30 20:25:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-30 20:26:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-30 20:27:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-09-30 20:28:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-09-30 20:29:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-02 20:18:24"
+"CPU Temp" : "35.5ºC"
+"GPU Temp" : "35.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-02 20:19:02"
+"CPU Temp" : "38.9ºC"
+"GPU Temp" : "38.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-02 20:20:01"
+"CPU Temp" : "43.8ºC"
+"GPU Temp" : "42.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-02 20:21:01"
+"CPU Temp" : "45.7ºC"
+"GPU Temp" : "45.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-02 20:22:01"
+"CPU Temp" : "48.1ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-02 20:23:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-02 20:24:02"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-02 20:25:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-02 20:26:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-02 20:27:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-02 20:28:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-02 20:29:02"
+"CPU Temp" : "48.6ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-02 20:30:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-02 20:31:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-02 20:32:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-02 20:33:01"
+"CPU Temp" : "48.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-02 20:34:02"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-02 20:35:01"
+"CPU Temp" : "48.1ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-02 20:36:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-02 20:37:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-02 20:38:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-02 20:39:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-02 20:40:02"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-02 20:41:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-02 20:42:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-02 20:43:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-02 20:44:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-02 20:45:02"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-02 20:46:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-02 20:47:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-02 20:48:01"
+"CPU Temp" : "48.6ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-02 20:49:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-02 20:50:02"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-02 20:51:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-02 20:52:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-02 20:53:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-02 20:54:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-02 20:55:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-02 20:56:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-02 20:57:01"
+"CPU Temp" : "48.6ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-02 20:58:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-02 20:59:02"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-02 21:00:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-02 21:01:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-02 21:02:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-02 21:03:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-02 21:04:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-02 21:05:01"
+"CPU Temp" : "46.7ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 19:48:32"
+"CPU Temp" : "47.7ºC"
+"GPU Temp" : "47.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 19:49:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 19:50:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 19:51:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 19:52:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 19:53:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 19:54:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 19:55:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 19:56:01"
+"CPU Temp" : "55.9ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 19:57:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 19:58:01"
+"CPU Temp" : "48.6ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 19:59:01"
+"CPU Temp" : "55.9ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:00:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 20:01:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:02:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 20:03:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:04:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 20:05:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:06:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:07:01"
+"CPU Temp" : "47.2ºC"
+"GPU Temp" : "47.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 20:08:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:09:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:10:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 20:11:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:12:02"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:13:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 20:14:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:15:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:16:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 20:17:02"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:18:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:19:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 20:20:01"
+"CPU Temp" : "55.5ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:21:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:22:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 20:23:01"
+"CPU Temp" : "55.5ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:24:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:25:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:26:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 20:27:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:28:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:29:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 20:30:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:31:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:32:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:33:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 20:34:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:35:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:36:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 20:37:01"
+"CPU Temp" : "55.9ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:38:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:39:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 20:40:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:41:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 20:42:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:43:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:44:01"
+"CPU Temp" : "48.6ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 20:45:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:46:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 20:47:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:48:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 20:49:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:50:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 20:51:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:52:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:53:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 20:54:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:55:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:56:01"
+"CPU Temp" : "48.1ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 20:57:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 20:58:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 20:59:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 21:00:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 21:01:01"
+"CPU Temp" : "55.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 21:02:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 21:03:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 21:04:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 21:05:01"
+"CPU Temp" : "48.6ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 21:06:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 21:07:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 21:08:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 21:09:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 21:10:01"
+"CPU Temp" : "48.1ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 21:11:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 21:12:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 21:13:01"
+"CPU Temp" : "55.5ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 21:14:02"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 21:15:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 21:16:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 21:17:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 21:18:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 21:19:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 21:20:01"
+"CPU Temp" : "55.5ºC"
+"GPU Temp" : "55.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 21:21:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 21:22:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 21:23:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-03 21:24:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-03 21:25:01"
+"CPU Temp" : "46.2ºC"
+"GPU Temp" : "44.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-04 21:37:22"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-04 21:38:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-04 21:39:02"
+"CPU Temp" : "48.1ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-04 21:40:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-04 21:41:01"
+"CPU Temp" : "47.7ºC"
+"GPU Temp" : "47.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-04 21:42:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-04 21:43:01"
+"CPU Temp" : "47.7ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-04 21:44:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-04 21:45:01"
+"CPU Temp" : "48.6ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-04 21:46:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-04 21:47:01"
+"CPU Temp" : "48.1ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-04 21:48:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-04 21:49:01"
+"CPU Temp" : "54.5ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-04 21:50:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-04 21:51:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-04 21:52:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-04 21:53:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-04 21:54:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-04 21:55:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-04 21:56:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-04 21:57:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-04 21:58:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-04 21:59:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-04 22:00:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-04 22:01:01"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-04 22:02:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-04 22:03:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-04 22:04:01"
+"CPU Temp" : "49.1ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-04 22:05:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-04 22:06:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"timestamp" : "19-10-04 22:07:01"
+"CPU Temp" : "53.5ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"timestamp" : "19-10-04 22:08:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"NxtFlip ID" : "10000000a713e617"
+"timestamp" : "19-10-04 22:09:02"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"NxtFlip ID" : "10000000a713e617"
+"timestamp" : "19-10-04 22:10:01"
+"CPU Temp" : "51.1ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"NxtFlip ID" : "10000000a713e617"
+"timestamp" : "19-11-16 16:04:25"
+"CPU Temp" : "34.0ºC"
+"GPU Temp" : "34.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"NxtFlip ID" : "10000000a713e617"
+"timestamp" : "19-11-16 16:05:01"
+"CPU Temp" : "38.4ºC"
+"GPU Temp" : "38.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"NxtFlip ID" : "10000000a713e617"
+"timestamp" : "19-11-16 16:06:01"
+"CPU Temp" : "45.2ºC"
+"GPU Temp" : "45.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"NxtFlip ID" : "10000000a713e617"
+"timestamp" : "19-11-22 20:14:50"
+"CPU Temp" : "48.6ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"NxtFlip ID" : "10000000a713e617"
+"timestamp" : "19-11-22 20:15:01"
+"CPU Temp" : "50.1ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"NxtFlip ID" : "10000000a713e617"
+"timestamp" : "19-11-22 20:16:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
+{
+"NxtFlip ID" : "10000000a713e617"
+"timestamp" : "19-11-22 20:17:01"
+"CPU Temp" : "47.7ºC"
+"GPU Temp" : "47.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"NxtFlip ID" : "10000000a713e617"
+"timestamp" : "19-11-22 20:18:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"NxtFlip ID" : "10000000a713e617"
+"timestamp" : "19-11-22 20:19:02"
+"CPU Temp" : "46.7ºC"
+"GPU Temp" : "46.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"NxtFlip ID" : "10000000a713e617"
+"timestamp" : "19-11-22 20:20:01"
+"CPU Temp" : "50.6ºC"
+"GPU Temp" : "50.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"NxtFlip ID" : "10000000a713e617"
+"timestamp" : "19-11-22 20:21:01"
+"CPU Temp" : "54.0ºC"
+"GPU Temp" : "54.0ºC"
+"Fan Status" : "ON"
+}
+{
+"NxtFlip ID" : "10000000a713e617"
+"timestamp" : "19-11-22 20:22:01"
+"CPU Temp" : "49.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"NxtFlip ID" : "10000000a713e617"
+"timestamp" : "19-11-22 20:23:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"NxtFlip ID" : "10000000a713e617"
+"timestamp" : "19-11-22 20:24:02"
+"CPU Temp" : "47.7ºC"
+"GPU Temp" : "47.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"NxtFlip ID" : "10000000a713e617"
+"timestamp" : "19-11-22 20:25:01"
+"CPU Temp" : "51.6ºC"
+"GPU Temp" : "51.0ºC"
+"Fan Status" : "ON"
+}
+{
+"NxtFlip ID" : "10000000a713e617"
+"timestamp" : "19-11-22 20:26:01"
+"CPU Temp" : "48.1ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"NxtFlip ID" : "10000000a713e617"
+"timestamp" : "19-11-22 20:27:01"
+"CPU Temp" : "52.5ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"NxtFlip ID" : "10000000a713e617"
+"timestamp" : "19-11-22 20:28:01"
+"CPU Temp" : "48.6ºC"
+"GPU Temp" : "49.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"NxtFlip ID" : "10000000a713e617"
+"timestamp" : "19-11-22 20:29:02"
+"CPU Temp" : "52.0ºC"
+"GPU Temp" : "52.0ºC"
+"Fan Status" : "ON"
+}
+{
+"NxtFlip ID" : "10000000a713e617"
+"timestamp" : "19-11-22 20:30:01"
+"CPU Temp" : "48.1ºC"
+"GPU Temp" : "48.0ºC"
+"Fan Status" : "OFF"
+}
+{
+"NxtFlip ID" : "10000000a713e617"
+"timestamp" : "19-11-22 20:31:01"
+"CPU Temp" : "53.0ºC"
+"GPU Temp" : "53.0ºC"
+"Fan Status" : "ON"
+}
