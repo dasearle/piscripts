@@ -1,11 +1,11 @@
 # piscripts
 ##### Scripts to setup a new pi
-1. Change the hostname
-'''
+*1. Change the hostname*
+```
 sudo nano /etc/hostname
-'''
-2. Change the default user name
-'''
+```
+*2. Change the default user name*
+```
 sudo passwd root
 sudo nano /etc/ssh/sshd_config
 PermitRootLogin yes
@@ -19,41 +19,41 @@ passwd
 sudo passwd -l root
 sudo nano /etc/ssh/sshd_config
 PermitRootLogin no
-'''
-3. Update the OS
-'''
+```
+*3. Update the OS*
+```
 sudo apt-get update
 
 sudo apt-get upgrade
-'''
-4. Install sqlite3
-'''
+```
+*4. Install sqlite3*
+```
 sudo apt-get install sqlite3
-'''
-5. Install git
-'''
+```
+*5. Install git*
+```
 sudo apt install git
-'''
-6. Clone piscripts
-'''
+```
+*6. Clone piscripts*
+```
 git clone https://github.com/dasearle/piscripts.git
-'''
-7. Set temp monitoring running...
-'''
+```
+*7. Set temp monitoring running...*
+```
 export EDITOR=nano; crontab -e
 
 * * * * * ~/temp.sh
-'''
+```
 
-8. Install power switch scripts:
-'''
+*8. Install power switch scripts:*
+```
 git clone https://github.com/Howchoo/pi-power-button.git
 
 ./pi-power-button/script/install
-'''
+```
 
-9. Setup auto hotspot
-'''
+*9. Setup auto hotspot*
+```
 sudo apt-get install hostapd
 sudo apt-get install dnsmasq
 sudo systemctl unmask hostapd
@@ -80,9 +80,9 @@ export EDITOR=nano; crontab -e
 
 */5  * * * sudo /usr/bin/autohotspot >/dev/null 2>&1
 
-'''
+```
 
-10. Collect wifi credentials using webpage and update wifi settings
+*10. Collect wifi credentials using webpage and update wifi settings*
 
 
 ## Install raylib 2.5
