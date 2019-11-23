@@ -51,8 +51,16 @@ git clone https://github.com/Howchoo/pi-power-button.git
 
 ./pi-power-button/script/install
 ```
+*9. Collect wifi credentials using webpage and update wifi settings*
+Clone and install raspiWIFI
+```
+wget https://github.com/jasbur/RaspiWiFi.git
+sudo python3 initial_setup.py
+sudo shutdown -r now
+```
 
-*9. Setup auto hotspot*
+*10. (optional) Setup auto hotspot*
+IGNORE THIS UNLESS STEP 9 DOES NOT WORK
 ```
 sudo apt-get install hostapd
 sudo apt-get install dnsmasq
@@ -81,9 +89,6 @@ export EDITOR=nano; crontab -e
 */5  * * * sudo /usr/bin/autohotspot >/dev/null 2>&1
 
 ```
-
-*10. Collect wifi credentials using webpage and update wifi settings*
-
 
 ## Install raylib 2.5
 
