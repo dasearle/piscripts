@@ -1,28 +1,88 @@
 # piscripts
-scripts to setup a new pi
-
+##### Scripts to setup a new pi
+1. Change the hostname
+'''
+sudo nano /etc/hostname
+'''
+2. Change the default user name
+'''
+sudo passwd root
+sudo nano /etc/ssh/sshd_config
+PermitRootLogin yes
+logout
+login as root
+usermod -l myuname pi
+usermod -m -d /home/myuname myuname
+logout
+login as myuname
+passwd
+sudo passwd -l root
+sudo nano /etc/ssh/sshd_config
+PermitRootLogin no
+'''
+3. Update the OS
+'''
 sudo apt-get update
 
 sudo apt-get upgrade
-
+'''
+4. Install sqlite3
+'''
 sudo apt-get install sqlite3
-
+'''
+5. Install git
+'''
 sudo apt install git
-
-clone piscripts
-
+'''
+6. Clone piscripts
+'''
+git clone https://github.com/dasearle/piscripts.git
+'''
+7. Set temp monitoring running...
+'''
 export EDITOR=nano; crontab -e
 
 * * * * * ~/temp.sh
+'''
 
-Power Switch:
-## Install Git, download the script and install
-
-
+8. Install power switch scripts:
+'''
 git clone https://github.com/Howchoo/pi-power-button.git
 
-./pi-power-button/scripls
-t/install
+./pi-power-button/script/install
+'''
+
+9. Setup auto hotspot
+'''
+sudo apt-get install hostapd
+sudo apt-get install dnsmasq
+sudo systemctl unmask hostapd
+sudo systemctl disable hostapd
+sudo systemctl disable dnsmasq
+sudo cp hostapd.conf /etc/hostapd/
+sudo nano /etc/default/hostapd
+Change:
+#DAEMON_CONF=""
+to
+DAEMON_CONF="/etc/hostapd/hostapd.conf"
+
+Check the DAEMON_OPTS="" is preceded by a #, so is #DAEMON_OPTS=""
+sudo cp dnsmasq.conf /etc/
+sudo cp /etc/network/interfaces /etc/network/interfaces-backup
+sudo nano /etc/dhcpcd.conf
+Add line at bottom: nohook wpa_supplicant
+sudo cp autohotspot.service /etc/systemd/system/
+sudo systemctl enable autohotspot.service
+sudo cp autohotspot /usr/bin
+sudo chmod +x /usr/bin/autohotspot
+
+export EDITOR=nano; crontab -e
+
+*/5  * * * sudo /usr/bin/autohotspot >/dev/null 2>&1
+
+'''
+
+10. Collect wifi credentials using webpage and update wifi settings
 
 
 ## Install raylib 2.5
