@@ -37,9 +37,12 @@ sudo apt install git
 *6. Clone piscripts*
 ```
 git clone https://github.com/dasearle/piscripts.git
+cd piscripts
+mv * ../
 ```
 *7. Set temp monitoring running...*
 ```
+sudo chmod +x temp.sh
 export EDITOR=nano; crontab -e
 
 * * * * * ~/temp.sh
