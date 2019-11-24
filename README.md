@@ -11,7 +11,7 @@ sudo nano /etc/ssh/sshd_config
 PermitRootLogin yes
 logout
 login as root
-usermod -l myuname pi
+pkill -KILL -u pi; usermod -l myuname pi
 usermod -m -d /home/myuname myuname
 logout
 login as myuname
